@@ -1,7 +1,6 @@
 # StackOverFlow_Scrapping
 Scrapping of StackOverFlow Data.
 
-#### Assignment Link : [https://github.com/rajbhuwan1510/Day-3/tree/main/homework](https://github.com/rajbhuwan1510/Day-3/tree/main/scrappingStackOverFlow)
 
 ## Problem Statement
 #### "Utilize Beautiful Soup to scrape the provided Stack Overflow webpage and extract relevant information pertaining to the question: "How do I get the current time in Python?"
@@ -51,7 +50,7 @@ Scrapping of StackOverFlow Data.
 
 ## Authors
 
-- Rajbhuwan Jaitawat
+- Saad Falke.
 
 ## License
 Its free Guysss :)
