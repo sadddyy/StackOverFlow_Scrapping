@@ -1,8 +1,6 @@
 # StackOverFlow_Scrapping
 Scrapping of StackOverFlow Data.
 
-# Stack Overflow Scraper
-
 #### Assignment Link : [https://github.com/rajbhuwan1510/Day-3/tree/main/homework](https://github.com/rajbhuwan1510/Day-3/tree/main/scrappingStackOverFlow)
 
 ## Problem Statement
